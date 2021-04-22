@@ -1,2 +1,2 @@
 # Bracelet
-es una pagina para dar a conocer nuestro producto
+es una pagina para dar a conocer nuestro proyecto
